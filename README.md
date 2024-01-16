@@ -1,5 +1,9 @@
-## Igor Langoni
 
+<h1 align='center'>Igor Langoni</h1> 
+
+<p align='center'>
+<a href="https://github.com/igorlangoni/">GitHub</a> <a href="https://www.linkedin.com/in/igor-langoni/">LinkedIn</a> 
+</p>
 
 I am a detail-oriented problem-solver transitioning into a data engineering career . Having just completed a 16-week long Data Engineering bootcamp I have acquired skills in many of the most sought after tools in the data world. The tech world is amazing and because I believe I have the right attitude and mindset I know I will thrive in the right company with the right values!
 
