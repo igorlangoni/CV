@@ -1,23 +1,40 @@
-## Your Name
+## Igor Langoni
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+
+I am a detail-oriented problem-solver transitioning into a data engineering career . Having just completed a 16-week long Data Engineering bootcamp I have acquired skills in many of the most sought after tools in the data world. The tech world is amazing and because I believe I have the right attitude and mindset I know I will thrive in the right company with the right values!
+
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Final project - Data Pipeline           | AA batch processing pipeline to feed a real-time dashboard app with transformed data from several source databases that were continuously updated. | 
+Python, SQL, PostgreSQL, Apache Airflow, Flask, AWS RDS, AWS EC2, Git
+
+|
+| MakersBNB | A webapp based on the world famous AirBNB. It enabled users to:
+Start sessions via authenticated login with encrypted passwords
+Browse different spaces and dates available to rent
+Request spaces at certain available dates
+Offer owned spaces for rent at different available dates
+Manage request, accept or decline space’s requests
+ | 
+Python, Flask, Git
+
+              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Paul Rhodes Bakery**  (January 2022 to August 2023) 
+Production Supervisor
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+Oversaw teams, processes, and quality in the food industry
+Ensured the timely delivery of orders, the compliance with food safety standards, and the optimization of resources and costs
+Communicated effectively with different stakeholders, such as managers, employees, customers, and suppliers, and resolved any issues or conflicts that arose
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+
+**The Ivy Collection** (November 2019 to August 2021)  
+Waiter
 
 - Any experience relevent to software development
 
@@ -30,35 +47,35 @@ Consider skills relevent to software development. Then consider projects you've 
 
 Here's an example
 
+#### Problem-Solving
+While working in a fast-paced, dynamic environment such as a production kitchen I have put my problem-solving skills to the test almost on a daily basis. Regular occurrences included absent team-members, last-minute orders and delays from suppliers. I have always managed to overturn these situations by reallocating resources and prioritizing tasks in order to maximize efficiency and deliver our products on time and up to standards. 
+
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+I honed my communication skills while working as a supervisor in many different ways. As a team leader I always had to be clear when giving instructions and setting expectations with my teammates. I also learned how to actively listen and understand their concerns and requests. 
 
-#### Another skill
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
+#### Analytical Skills
+Both through my 2 and half years as a Chemical Engineer Undergraduate in Brazil, through my time as a production supervisor and specially through the data bootcamp, I have developed strong mathematical and analytical skills. I have a keen eye for problem identification and strategic planning, which were very useful during our project weeks in the bootcamp. 
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy, Data Engineering Bootcamp (September 2023 to January 2024)
+- Achieved excellent command of Python through a series of exercises, challenges and projects
+- Frequently used pairing in order to problem-solve efficiently, requiring teamwork and communication.
+- Applied Test-driven Development techniques to improve code quality and ensure continuous integration
+- Delivered business insights through the use of SQL queries in order to come up with meaningful data
+- Worked with several data engineering tools such as Apache Airflow, dbt, Kafka, AWS (S3, RDS, EC2)
+- Developed organizational skills by working in group projects following Agile methodology
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Uberlandia Federal University, Brazil (January 2015 to September 2018)
+##### Chemical Engineering Undergraduate Degree
+  
+  Deep understanding of Math and Statistics
+  Analytical thinking
+  Data-driven solutions
+
 
 #### Any other qualifications
 
@@ -66,4 +83,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+My true passions are sports and music (old music mostly)! But I am also always in the mood to play some video-game or some strategy board game with a fun, big group of friends!
