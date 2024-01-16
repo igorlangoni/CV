@@ -42,8 +42,8 @@ I am a detail-oriented problem-solver transitioning into a data engineering care
 **Paul Rhodes Bakery**  (January 2022 to August 2023) 
 Production Supervisor
 
-. Oversaw teams, processes, and quality in the food industry
-. Ensured the timely delivery of orders, the compliance with food safety standards, and the optimization of resources and costs
+. Oversaw teams, processes, and quality in the food industry <br>
+. Ensured the timely delivery of orders, the compliance with food safety standards, and the optimization of resources and costs <br>
 . Communicated effectively with different stakeholders, such as managers, employees, customers, and suppliers, and resolved any issues or conflicts that arose
 
 
