@@ -30,10 +30,10 @@ I am a detail-oriented problem-solver transitioning into a data engineering care
 
 
 #### Uberlandia Federal University, Brazil (January 2015 to September 2018)
-##### Chemical Engineering Undergraduate Degree
+##### Chemical Engineering Undergraduate Degree <br>
   
-  Deep understanding of Math and Statistics 
-  Analytical thinking through 
+  Deep understanding of Math and Statistics <br> 
+  Analytical thinking
   
 
 
