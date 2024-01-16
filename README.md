@@ -6,22 +6,17 @@ I am a detail-oriented problem-solver transitioning into a data engineering care
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| Final project - Data Pipeline           | AA batch processing pipeline to feed a real-time dashboard app with transformed data from several source databases that were continuously updated. | 
-Python, SQL, PostgreSQL, Apache Airflow, Flask, AWS RDS, AWS EC2, Git
+| Name                         | Description         | Tech/tools        |
+| ---------------------------- | -----------------   | ----------------- |
+|                              |                     |                   |
+|                              |                     |                   |
+|                              |                     |                   |
+|                              |                     |                   |
+|                              |                     |                   |
+|                              |                     |                   |
+|                              |                     |                   |
+|                              |                     |                   |
 
-|
-| MakersBNB | A webapp based on the world famous AirBNB. It enabled users to:
-Start sessions via authenticated login with encrypted passwords
-Browse different spaces and dates available to rent
-Request spaces at certain available dates
-Offer owned spaces for rent at different available dates
-Manage request, accept or decline space’s requests
- | 
-Python, Flask, Git
-
-              |
 
 ## Work Experience
 
