@@ -39,7 +39,7 @@ I am a detail-oriented problem-solver transitioning into a data engineering care
 
 ## Work Experience
 
-**Paul Rhodes Bakery**  (January 2022 to August 2023) 
+**Paul Rhodes Bakery**  (January 2022 to August 2023) <br> 
 Production Supervisor
 
 . Oversaw teams, processes, and quality in the food industry <br>
