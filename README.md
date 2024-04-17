@@ -71,26 +71,40 @@ and Serverless
 **Paul Rhodes Bakery**  (January 2022 to August 2023) <br> 
 Production Supervisor
 
-- Oversaw the team, making sure processes were followed and product quality was always kept to the highest standards<br>
-- Ensured the timely delivery of orders, the compliance with food safety standards, and the optimization of resources and costs <br>
-- Communicated effectively with different stakeholders, such as managers, employees, customers, and suppliers, and resolved any issues or conflicts that arose
+- Oversaw team operations to maintain highest product quality standards and adherence to processes
+- Ensured timely order delivery, compliance with food safety standards, and optimized resource utilization
+- Facilitated effective communication among stakeholders, resolving issues and conflicts promptly
+- Proposed operational improvements, such as adjusting shift schedules, leading to enhanced efficiency and cost savings
+- Applied keen interpersonal and communication skills; liaising effectively with colleagues and clients
+
+     #### Successful Achievements / Projects
+  
+  - Promoted to Supervisor within 10 months; due to exceptional leadership skills and a keen ability to train and motivate a team consisting of over 15 team members
+  - Implemented innovative solutions, such as introducing a night shift during peak periods like Christmas and Halloween, to improve resource utilization and minimize conflicts, leading to enhanced productivity and customer satisfaction
+  - Managed complex projects, including overseeing production for the Wimbledon Open tournament, resulting in successful delivery despite a 10x increase in production volume
 
 **The Ivy Collection** (November 2019 to August 2021)<br>
 Waiter
 
-- Experience working in an extremely fast-paced environment and dealing with high-pressure, stressful situations<br>
-- Learned how to communicate effectively and how to actively listen to concerns and requests by dealing regularly with unhappy guests
+- Thrived in high-pressure, fast-paced environments, effectively managing stressful situations
+- Demonstrated exceptional communication and active listening skills in addressing guest concerns and requests
+- Demonstrated a wealth of product knowledge to assist and facilitate streamlined operations and service
+    
+     #### Successful Achievements / Projects
+
+  - Recognized as the first-ever Employee of the Month for outstanding performance
+  - Exceeded expectations by rapidly improving skills during the opening of one of Cardiff's largest venues, handling over 8000 bookings
 
 ## Skills
 
 #### Problem-Solving
-While working in a fast-paced, dynamic environment such as a production kitchen I have put my problem-solving skills to the test almost on a daily basis. Regular occurrences included absent team-members, last-minute orders and delays from suppliers. I have always managed to overturn these situations by reallocating resources and prioritizing tasks in order to maximize efficiency and deliver our products on time and up to standards. 
+While working in a fast-paced, dynamic environment such as a production kitchen I have put my problem-solving skills to the test almost on a daily basis. Regular occurrences included absent team members, last-minute orders and delays from suppliers. I have always managed to overturn these situations by reallocating resources and prioritizing tasks in order to maximize efficiency and deliver our products on time and up to standards. 
 
 #### Communication
-I honed my communication skills while working as a supervisor and as a waiter in many different ways. As a team leader I always had to be clear when giving instructions and setting expectations with my teammates. Both when dealing with coworkers and when dealing with guests as a waiter, I had to learn how to actively listen and understand concerns and requests, as to descalate situations and resolve conflicts.
+I honed my communication skills while working as a supervisor and as a waiter in many different ways. As a team leader, I always had to be clear when giving instructions and setting expectations with my teammates. Both when dealing with coworkers and when dealing with guests as a waiter, I had to learn how to actively listen and understand concerns and requests, as to de-escalate situations and resolve conflicts.
 
 #### Analytical Skills
-Both through my 2 and half years as a Chemical Engineer Undergraduate in Brazil, through my time as a production supervisor and specially through the data bootcamp, I have developed strong mathematical and analytical skills. I have a keen eye for problem identification and strategic planning, which were very useful during our project weeks in the bootcamp. 
+Both through my 2 and half years as a Chemical Engineer Undergraduate in Brazil, through my time as a production supervisor and especially through the data bootcamp, I have developed strong mathematical and analytical skills. I have a keen eye for problem identification and strategic planning, which were very useful during our project weeks in the bootcamp. 
 
 
 
