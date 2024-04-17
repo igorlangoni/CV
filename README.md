@@ -2,10 +2,15 @@
 <h1 align='center'>Igor Langoni</h1> 
 
 <p align='center'>
-<a href="https://github.com/igorlangoni/">GitHub</a> <a href="https://www.linkedin.com/in/igor-langoni/">LinkedIn</a> 
+<a href="https://github.com/igorlangoni/">GitHub</a> <a href="https://www.linkedin.com/in/igor-langoni/">LinkedIn</a> <a href="https://igorlangoni.github.io/portfolio/">Portfolio</a> 
 </p>
 
-I am a detail-oriented problem-solver transitioning into a data engineering career . Having just completed a 16-week long Data Engineering bootcamp I have acquired skills in many of the most sought after tools in the data world. The tech world is amazing and because I believe I have the right attitude and mindset I know I will thrive in the right company with the right values!
+Bilingual Junior Software Developer (Portuguese & English) certified in Software & Data Engineering with a wealth of complimentary
+courses. An analytical and detail-oriented problem solver who applies a methodical approach to tasks; possessing knowledge in front and
+back-end development areas, personal projects and a proven track record collaborating effectively with leadership and colleagues to
+spearhead impeccable operations and achieve the highest level of satisfaction. Currently seeking an entry, assistant or junior position in
+the areas of software engineering or development or indeed data-focused roles whereby I can apply fresh academic knowledge and a
+passion for the industry.
 
 
 ## Projects
@@ -21,6 +26,18 @@ I am a detail-oriented problem-solver transitioning into a data engineering care
 
 ## Education
 
+#### IBM Full-Stack Software Developer, Courser (Jan 2024 - Present)
+- Professional-level certificate(160+ Hrs) from IBM, one of the world's leading Tech Companies
+- Hands-on projects on the most in-demand tools and frameworks: Django, React.js, Docker, Kubernetes, OpenShift, Flask, Git and
+more
+- Developed applications in Node.js and Express.js using asynchronous callbacks and promises, created REST APIs and performed
+CRUD operations, implemented authentication and session management
+- Software Development with front-end development languages and tools such as HTML, CSS, JavaScript, React, and Bootstrap
+- Deployment and scaling of applications using Cloud Native methodologies and tools such as Containers, Kubernetes, Microservices,
+and Serverless
+<br><br>
+<b>Modules</b>: Back-end Development with Python and Django,  Django Applications with SQL and Databases, Python for Data Science, AI & Development, Cloud Computing, Web Development with HTML, CSS and JavaScript, Back-end Development with Node.js and React, Front-end Development with React, 		Introduction to Containers, Kubernetes and OpenShift
+
 #### Makers Academy, Data Engineering Bootcamp (September 2023 to January 2024)
 - Achieved excellent command of Python through a series of exercises, challenges and projects
 - Frequently used pairing in order to problem-solve efficiently, requiring teamwork and communication.
@@ -28,6 +45,8 @@ I am a detail-oriented problem-solver transitioning into a data engineering care
 - Delivered business insights through the use of SQL queries in order to come up with meaningful data
 - Worked with several data engineering tools such as Apache Airflow, dbt, Kafka, AWS (S3, RDS, EC2)
 - Developed organizational skills by working in group projects following Agile methodology
+  <br><br>
+<b>Modules</b>:  Designed database Schemas, EDA, Data Preparation, Data Visualization, Designing and Creating Pipelines, Batch Processing, Stream Processing, ETL, Test-Driven-Development Processes, Object-Oriented Programming, Python, SQL, Airflow, Postgres, Agile, Scrum, Pair-Programming,
 
 
 #### Federal University of Uberlandia, Brazil (January 2015 to September 2018)
@@ -35,6 +54,8 @@ I am a detail-oriented problem-solver transitioning into a data engineering care
   
 - Deep mathematical understanding: Calculus and Differential Equation, Linear Algebra, Probability, Statistics <br>
 - Analytical thinking approach through laboratory experience and Engineering thinking
+<br><br>
+<b>Modules</b>: Calculus and Differential Equation, Linear Algebra, Probability, Statistics, Laboratory Experience
 
 
 #### Independent Studies (Jan 2022 - present) - Online
